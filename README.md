@@ -25,5 +25,6 @@ Robotics is an interdisciplinary branch of computer science and engineering. Rob
 <li>led blink by switch
 <li>ledrun by switch count
 <li>led's blink by switch count
-<li>Survomoter by Potentiometer
+<li>Survo Moter by Potentiometer
+<li>Survo Moter
 </ol>
