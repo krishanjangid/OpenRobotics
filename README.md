@@ -8,7 +8,7 @@ Robotics is an interdisciplinary branch of computer science and engineering. Rob
 <li>Obstical Avoider
 <li>Edge Avoider
 </ol>
-<h2>Recomote Control Robots</h2>
+<h2>Remote Control Robots</h2>
 <ol>
 <li>Bluetooth RC Robo
 <li>WiFi RC Robo
