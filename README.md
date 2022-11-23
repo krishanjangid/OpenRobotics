@@ -5,7 +5,7 @@ Robotics is an interdisciplinary branch of computer science and engineering. Rob
 <ol>
 <li>Line Follower
 <li>Wall Follower
-<li>Obstical Avoider
+<li> <a href="https://github.com/krishanjangid/OpenRobotics/blob/f6ad727378353aaf480ab737399abe7204b66149/Autonomous%20Robots/obstical%20avoider%20robo%20using%20ultrasonic%20sensor.ino">Obstical Avoider</a>
 <li>Edge Avoider
 </ol>
 <h2>Remote Control Robots</h2>
