@@ -1,11 +1,11 @@
  # <img src="https://github.com/krishanjangid/OpenRobotics/blob/master/images/logo.png" height="35" width="35" > OpenRobotics
-Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans.This is an opensource Repository for all robotics folk's.We Welcome you to Contribute Freely here,just clone this ripo! and do your own stuff and pull request. we will review and merge your branch. thank you!
+This is an opensource Repository for all robotics folk's.We Welcome you to Contribute Freely here,just clone this ripo! and do your own stuff and pull request. we will review and merge your branch. Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans. thank you!
 
 <h2>Autonomous Robots</h2>
 <ol>
 <li>Line Follower
 <li>Wall Follower
-<li>Obstical Avoider
+<li>Obstical Avoider</a>
 <li>Edge Avoider
 </ol>
 <h2>Remote Control Robots</h2>
@@ -28,3 +28,7 @@ Robotics is an interdisciplinary branch of computer science and engineering. Rob
 <li>Survo Moter by Potentiometer
 <li>Survo Moter
 </ol>
+
+<h2>How to 🙈</h2>
+
+#### [1. How to Make Line Follower Robot Using IR Array Sensor With Arduino](https://medium.com/@kkjangid/how-make-line-follower-robot-using-ir-array-sensor-with-arduino-586ee58e3f6e)
